@@ -22,5 +22,7 @@ mail = Mail(app)
 
 # Import your blueprints, register them:
 from jsc3.main.routes import main
+from jsc3.email.routes import email
 
 app.register_blueprint(main)
+app.register_blueprint(email)

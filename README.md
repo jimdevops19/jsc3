@@ -1,2 +1,2 @@
-# jsc3
-This is the website of jsc
+# ballapp3
+This is my ballapp3 project
